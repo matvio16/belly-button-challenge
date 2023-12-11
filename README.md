@@ -16,3 +16,4 @@ All files uploaded to the belly-button-challenge repository including:
 
 - samples.json
 
+GitPage - https://matvio16.github.io/belly-button-challenge/
